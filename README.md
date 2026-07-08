@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Mohammad Ababneh 👋
 
-<!--
-**mhdababneh2020-hash/mhdababneh2020-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering graduate focused on .NET Backend Development, REST APIs, SQL Server, and cloud fundamentals.
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### HR Management System API
+ASP.NET Core 10, EF Core, SQL Server, JWT, Docker, xUnit, GitHub Actions  
+Secure HR management REST API with role-based authorization, invitation-based employee registration, leave request workflow, automated tests, and CI.
+
+### Dealership Reviews API
+ASP.NET Core, EF Core, SQL Server, JWT, xUnit, GitHub Actions  
+REST API for car dealerships and customer reviews with authentication, CRUD operations, SQL Server migrations, unit tests, and CI.
+
+## Tech Stack
+
+C# • ASP.NET Core • EF Core • SQL Server • JWT • xUnit • Docker • GitHub Actions • JavaScript • React Native • Python
+
+## Currently Improving
+
+- .NET Backend Development
+- REST API Design
+- SQL Server and EF Core
+- Cloud fundamentals with Microsoft Azure
+- Software engineering best practices
+
+## Contact
+
+- LinkedIn: www.linkedin.com/in/mohammad-ababneh-eng
+- Email: mhdababneh2020@outlook.com

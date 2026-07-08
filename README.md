@@ -6,7 +6,7 @@ Currently seeking Junior .NET Backend / Full-Stack Developer opportunities.
 ## Featured Projects
 
 ### [HR Management System API](https://github.com/mhdababneh2020-hash/HRManagementSystem)
-ASP.NET Core 10, EF Core, SQL Server, JWT, Docker, xUnit, GitHub Actions  
+ASP.NET Core 10 (.NET 10 LTS), EF Core 10, SQL Server, JWT, Docker, xUnit, GitHub Actions 
 Secure HR management REST API with role-based authorization, invitation-based employee registration, leave request workflow, automated tests, and CI.
 
 ### [Dealership Reviews API](https://github.com/mhdababneh2020-hash/DealershipReviewsAPI)

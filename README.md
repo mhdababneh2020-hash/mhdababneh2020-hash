@@ -1,29 +1,36 @@
 # Hi, I'm Mohammad Ababneh 👋
 
-Computer Engineering graduate focused on .NET Backend Development, REST APIs, SQL Server, and cloud fundamentals.  
-Currently seeking Junior .NET Backend / Full-Stack Developer opportunities.
+Computer Engineering graduate focused on .NET Backend Development.
+
+I enjoy building REST APIs and backend applications using C#, ASP.NET Core, Entity Framework Core, and SQL Server.
+
+Currently seeking Junior Software Engineer / .NET Backend Developer opportunities.
 
 ## Featured Projects
 
 ### [HR Management System API](https://github.com/mhdababneh2020-hash/HRManagementSystem)
-ASP.NET Core 10 (.NET 10 LTS), EF Core 10, SQL Server, JWT, Docker, xUnit, GitHub Actions 
-Secure HR management REST API with role-based authorization, invitation-based employee registration, leave request workflow, automated tests, and CI.
 
-### [Dealership Reviews API](https://github.com/mhdababneh2020-hash/DealershipReviewsAPI)
-ASP.NET Core, EF Core, SQL Server, JWT, xUnit, GitHub Actions  
-REST API for car dealerships and customer reviews with authentication, CRUD operations, SQL Server migrations, unit tests, and CI.
+ASP.NET Core • Entity Framework Core • SQL Server • JWT • xUnit • Docker
+
+REST API for managing employees, departments, and leave requests, with authentication, role-based authorization, database integration, and automated testing.
+
+### Smart Attendance System
+
+React Native • Raspberry Pi • Python • OpenCV
+
+Graduation project combining a mobile application with Raspberry Pi hardware for attendance workflows, motion detection, image processing, and employee record management.
 
 ## Tech Stack
 
-C# • ASP.NET Core • EF Core • SQL Server • JWT • xUnit • Docker • GitHub Actions • JavaScript • React Native • Python
+C# • ASP.NET Core • REST APIs • Entity Framework Core • SQL Server • LINQ • Git • Docker
 
-## Currently Improving
+## Focus Areas
 
 - .NET Backend Development
-- REST API Design
-- SQL Server and EF Core
-- Cloud fundamentals with Microsoft Azure
-- Software engineering best practices
+- REST API Development
+- Database Development with SQL Server and EF Core
+- Software Engineering Fundamentals
+- Microsoft Azure Fundamentals
 
 ## Contact
 
